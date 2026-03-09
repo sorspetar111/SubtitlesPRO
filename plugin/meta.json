@@ -1,0 +1,16 @@
+{
+  "category": "Subtitles",
+  "changelog": "Alfa",
+  "description": "Alfa,
+  "guid": "7b9da9c5-4a6f-4844-b380-4538f22600d7",
+  "name": "Open Subtitles",
+  "overview": "Download subtitles for your media",
+  "owner": "set",
+  "targetAbi": "10.11.0.0",
+  "timestamp": "2026-03-09T02:58:27.0000000Z",
+  "version": "23.0.0.3",
+  "status": "Active",
+  "autoUpdate": true,
+  "imagePath": "D:\\backup\\jellyfin\\plugins\\subtitles_23.0.0.3\\jellyfin-plugin.png",
+  "assemblies": []
+}

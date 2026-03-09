@@ -1,1 +1,24 @@
- 
+[
+	{
+		"guid": "7b9da9c5-4a6f-4844-b380-4538f22600d7",
+		"name": "Subtitles PRO",
+		"overview": null,
+		"description": "Subtitles profession\n\nNote: Contact us: micro@abv.bg.",
+		"owner": "SET",
+		"category": "Subtitles",
+		"imageUrl": "https://sorspetar111.github.io/SubtitlesPRO/plugin/logo.png",
+		"versions": [
+		  {
+			"version": "23.0.0.3",
+			"changelog": "Experimental builds do not have changelogs yet",
+			"targetAbi": "10.10.7.0",
+			"sourceUrl": "https://github.com/sorspetar111/SubtitlesPRO/releases/download/Release-23.0.0.3/Jellyfin.Plugin.SubtitlesPRO.zip",
+			"checksum": "C76262BD65F38E34F6F5CF1FCBCEA82D",
+			"timestamp": "2025-11-04T22:59:32",
+			"dependencies": [
+			  "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+			]
+		  }
+		]
+	}
+  ]
