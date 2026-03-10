@@ -13,7 +13,7 @@
 				"changelog":"Experimental builds do not have changelogs yet",
 				"targetAbi":"10.10.7.0",
 				"sourceUrl":"https://github.com/sorspetar111/SubtitlesPRO/releases/download/23.0.0.4/Jellyfin.Plugin.CentralManager.zip",
-				"checksum":"2bb531a42fa685cf097854797c7f69ef63171c0ef3a874199235525eebf58c1a",
+				"checksum":"d6415af2efe7712e0fcf09bca57a90ca6e469d056adc6d2bfd592553430deffa",
 				"timestamp":"2025-11-04T22:59:32",
 				"dependencies":[
 					"5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
