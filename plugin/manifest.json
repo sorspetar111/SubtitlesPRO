@@ -1,32 +1,35 @@
 [
 	{
-		"guid": "7b9da9c5-4a6f-4844-b380-4538f22600d7",
-		"name": "Central Manager Plugin(SORS CM)",
-		"overview": null,
-		"description": "Central Manager Plugin.\n\nAutomate all your server assets for the best expiriance.\n\nContact us: pz.micro@abv.bg.",
-		"owner": "SET",
-		"category": "Subtitles",
-		"imageUrl": "https://sorspetar111.github.io/SubtitlesPRO/plugin/logo.png",
-		"versions":
-        [
-		    {
-			    "version": "23.0.0.4",
-			    "changelog": "Experimental builds do not have changelogs yet",
-			    "targetAbi": "10.10.7.0",
-			    "sourceUrl": "https://github.com/sorspetar111/SubtitlesPRO/releases/download/Release-23.0.0.4/Jellyfin.Plugin.CentralManager.zip",
-			    "checksum": "2bb531a42fa685cf097854797c7f69ef63171c0ef3a874199235525eebf58c1a",
-			    "timestamp": "2025-11-04T22:59:32",
-			    "dependencies": ["5e87cc92-571a-4d8d-8d98-d2d4147f9f90"]
-		    },
-            {
-			    "version": "23.0.0.3",
-			    "changelog": "Experimental builds do not have changelogs yet",
-			    "targetAbi": "10.10.7.0",
-			    "sourceUrl": "https://github.com/sorspetar111/SubtitlesPRO/releases/download/Release-23.0.0.3/Jellyfin.Plugin.SubtitlesPRO.zip",
-			    "checksum": "07b87b6cb228f61a304c13b608d21f6e",
-			    "timestamp": "2025-11-04T22:59:32",
-			    "dependencies": ["5e87cc92-571a-4d8d-8d98-d2d4147f9f90"]
-		    },
+		"guid":"7b9da9c5-4a6f-4844-b380-4538f22600d7",
+		"name":"Central Manager Plugin(SORS CM)",
+		"overview":null,
+		"description":"Central Manager Plugin.\n\nAutomate all your server assets for the best expiriance.\n\nContact us: pz.micro@abv.bg.",
+		"owner":"SET",
+		"category":"Subtitles",
+		"imageUrl":"https://sorspetar111.github.io/SubtitlesPRO/plugin/logo.png",
+		"versions":[
+			{
+				"version":"23.0.0.4",
+				"changelog":"Experimental builds do not have changelogs yet",
+				"targetAbi":"10.10.7.0",
+				"sourceUrl":"https://github.com/sorspetar111/SubtitlesPRO/releases/download/Release-23.0.0.4/Jellyfin.Plugin.CentralManager.zip",
+				"checksum":"2bb531a42fa685cf097854797c7f69ef63171c0ef3a874199235525eebf58c1a",
+				"timestamp":"2025-11-04T22:59:32",
+				"dependencies":[
+					"5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+				]
+			},
+			{
+				"version":"23.0.0.3",
+				"changelog":"Experimental builds do not have changelogs yet",
+				"targetAbi":"10.10.7.0",
+				"sourceUrl":"https://github.com/sorspetar111/SubtitlesPRO/releases/download/Release-23.0.0.3/Jellyfin.Plugin.SubtitlesPRO.zip",
+				"checksum":"07b87b6cb228f61a304c13b608d21f6e",
+				"timestamp":"2025-11-04T22:59:32",
+				"dependencies":[
+					"5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+				]
+			}
 		]
 	}
 ]
