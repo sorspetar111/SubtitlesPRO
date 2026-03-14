@@ -9,6 +9,17 @@
 		"imageUrl":"https://sorspetar111.github.io/SubtitlesPRO/plugin/logo.png",
 		"versions":[
 			{
+				"version":"23.1.1.500",
+				"changelog":"Experimental builds do not have changelogs yet",
+				"targetAbi":"10.10.7.0",
+				"sourceUrl":"https://github.com/sorspetar111/SubtitlesPRO/releases/download/23.1.1.500/Jellyfin.Plugin.CentralManager.zip",
+				"checksum":"BF7E010032750DE26A30FBE6F2B2AB66",
+				"timestamp":"2026-01-04T22:59:32",
+				"dependencies":[
+					"5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
+				]
+			},
+			{
 				"version":"23.0.0.4",
 				"changelog":"Experimental builds do not have changelogs yet",
 				"targetAbi":"10.10.7.0",
