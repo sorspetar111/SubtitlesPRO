@@ -10,14 +10,10 @@
 		"versions":[
 			{
 				"version":"23.1.2.600",
-				"changelog":"Experimental builds do not have changelogs yet",
-				"targetAbi":"10.10.7.0",
+				"changelog":"Experimental builds do not have changelogs yet",		
 				"sourceUrl":"https://github.com/sorspetar111/SubtitlesPRO/releases/download/23.1.2.600/Jellyfin.Plugin.CentralManager.zip",
 				"checksum":"0139a5c4cc75ca84b55bcedf087ba8b2",
-				"timestamp":"2026-01-20T22:59:32",
-				"dependencies":[
-					"5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-				]
+				"timestamp":"2026-01-20T22:59:32"
 			},
 			{
 				"version":"23.1.1.500",
